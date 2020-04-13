@@ -15,3 +15,8 @@ Describe the differences between forks, clones, and branches. When would you use
   branches: used within same repository, e.g. to create different versions of a code
   clones: copies a repo (i) from GitHub to local workspace, or (ii) from a local workspace to another
   forges: copies a repo from GitHub to own GitHub account
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+  you can track easier changes that have been done by other people
+  you can avoid merging conflicts better
