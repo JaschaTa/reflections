@@ -9,3 +9,9 @@ stay up-to-date with your remote repository?
   There might be cases in which I would like to work with a version different than
   the one uploaded in github
   In general it gives more flexibility compared to automatic updates
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+  branches: used within same repository, e.g. to create different versions of a code
+  clones: copies a repo (i) from GitHub to local workspace, or (ii) from a local workspace to another
+  forges: copies a repo from GitHub to own GitHub account
