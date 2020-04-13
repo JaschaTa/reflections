@@ -20,3 +20,10 @@ What is the benefit of having a copy of the last known state of the remote store
 
   you can track easier changes that have been done by other people
   you can avoid merging conflicts better
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+  sharing code via email would not be pleasant
+  collaborating via dropbox might be an option to share always the newest code
+  however, the concept of commits would not work
+  all in all, it would be more struggeling without git or GitHub
